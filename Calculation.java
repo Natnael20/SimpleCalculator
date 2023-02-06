@@ -103,7 +103,7 @@ public class Calculation implements ActionListener{
 		divide = toInteger / toInteger2;	
 		
 		result = String.valueOf(sum);  
-	    result2 = String.valueOf(sub);
+	        result2 = String.valueOf(sub);
 		result3 = String.valueOf(multi);
 		result4 = String.valueOf(divide);
 		
